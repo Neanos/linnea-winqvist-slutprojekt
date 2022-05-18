@@ -1,0 +1,16 @@
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.exe
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.deps.json
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.runtimeconfig.json
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.runtimeconfig.dev.json
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\ref\linnea-winqvist-slutprojekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\bin\Debug\net5.0\linnea-winqvist-slutprojekt.pdb
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.csproj.AssemblyReference.cache
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.AssemblyInfoInputs.cache
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.AssemblyInfo.cs
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\ref\linnea-winqvist-slutprojekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.pdb
+C:\Users\linnea.winqvist\Documents\Programmering 1\linnea-winqvist-slutprojekt\linnea-winqvist-slutprojekt\obj\Debug\net5.0\linnea-winqvist-slutprojekt.genruntimeconfig.cache
